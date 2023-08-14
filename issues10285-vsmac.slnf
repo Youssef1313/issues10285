@@ -1,0 +1,15 @@
+{
+  "solution": {
+    "path": "issues10285.sln",
+    "projects": [
+      "issues10285.Tests\\issues10285.Tests.csproj",
+      "issues10285.UITests\\issues10285.UITests.csproj",
+      "issues10285.Mobile\\issues10285.Mobile.csproj",
+      "issues10285.Skia.Gtk\\issues10285.Skia.Gtk.csproj",
+      "issues10285.Wasm\\issues10285.Wasm.csproj",
+      "issues10285.Server\\issues10285.Server.csproj",
+      "issues10285.DataContracts\\issues10285.DataContracts.csproj",
+      "issues10285\\issues10285.csproj"
+    ]
+  }
+}

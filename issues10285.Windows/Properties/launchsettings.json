@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"issues10285.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"issues10285.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}

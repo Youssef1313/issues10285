@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "issues10285",
+  "display": "standalone",
+  "name": "issues10285",
+  "short_name": "issues10285",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
